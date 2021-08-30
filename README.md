@@ -31,3 +31,14 @@ This Tabletop RPG is based off the actual game so you can watch the [Official tr
 *A long time ago, two giants were facing each other in a timeless battle. Mechonis a giant of metal and Bionis a titan in flesh and bone. They were locked in a sword fight for ages. Someday they finally stroke each other in a final blow killing them both. Since then life has emerged on their lifeless bodies. A multitude of organic lifeforms appeared on the bionis, within which counts the Homz. On mechonis, the mechon were born to eat the lifeforce of the habitants of the bionis. And thus the war between the giants keeps raging in a different form...*
 
 Take arms as the hope of the homz in a raging conflict against the mechon and fight as a team to put an end to the suffering of your people. Explore the giants and uncover the secrets of this mysterious world as you go through your journey. Experience an amazing adventure with your friends around this fascinating universe !
+
+## Tools
+
+A trello should be out soon.
+
+Should this project be succesful a discord may be created.
+
+## Author
+
+> Dregni Slovra <br>
+> dregnislovra@gmail.com
