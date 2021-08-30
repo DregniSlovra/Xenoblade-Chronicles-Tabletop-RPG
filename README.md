@@ -4,7 +4,7 @@ This is a non-developer project to create a Tabletop RPG guide for the Xenoblade
 
 ## Disclaimer
 
-I own none of the material for this project. Xenoblade Chonicles is a game developed by Monolith Soft and owned by Nintendo, here is the [page](https://www.nintendo.com/games/detail/xenoblade-chronicles-definitive-edition-switch/) for the game.
+I own none of the material for this project. Xenoblade Chonicles is a game developed by Monolith Soft and owned by Nintendo, here is the [page](https://www.nintendo.com/games/detail/xenoblade-chronicles-definitive-edition-switch/) for the game. I also use the [Fandom wiki](https://xenoblade.fandom.com/wiki/Xenoblade_Wiki) as a reference and source for some texts.
 
 I built the rules based on in game mechanics and my experience with tabletop RPGs such as Wizards of the Coast's Dungeons & Dragons.
 
