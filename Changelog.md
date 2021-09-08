@@ -10,6 +10,12 @@ I'll be using this file as a SCRUM tool. Also allowing you to check in on the pr
 
 ## Entries
 
+**9 setp 21 :**
+
+- Trello opened and shaped.
+
+Next step : Fighting system or monster details template
+
 **8 sept 21 :**
 
 - Created a moving system for the Overworld, Areas & Fight situations.

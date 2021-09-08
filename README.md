@@ -34,7 +34,7 @@ Take arms as the hope of the homz in a raging conflict against the mechon and fi
 
 ## Tools
 
-A trello should be out soon.
+A [Trello board](https://trello.com/b/PC2Yl3HT/xenoblade-chronicles-tabletop-rpg) is used to get a better grasp of where I'm at in the progression.
 
 Should this project be succesful a discord may be created.
 
