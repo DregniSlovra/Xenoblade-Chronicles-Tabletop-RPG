@@ -2,6 +2,8 @@
 
 ## Description
 
+The light swordman is a light unit oriented towards damage and positioning. It has a very polyvalent set of art. He's overrall weaker than other classes but can be useful in every situation.
+
 Most of his arts revolve around positioning, often requiring other party members to draw attention away from him in order for his arts to deal their additional effects, which makes him weaker when fighting enemies head-on, as his arts require him to wait for openings.
 
 The light Swordman is one of the lowest HP playable character, but his Strength and Agility greatly balance out this flaw.
@@ -30,7 +32,7 @@ The light Swordman is one of the lowest HP playable character, but his Strength 
 - **Air Slash** is a jump-attack that inflicts break and may also slow the enemy if the player is on the enemie's side.
   > <span style="color:#FF9999">Air Slash</span> : Pink, Physical, Single, Break 2, Side Slow
 - **Shaker Edge** really rub salt in the enemies wounds ! When an enemy is toppled the light sword man inflict dazzle.
-  > <span style="color:#DDDD00">Shaker Edge</span> : Yellow, Physical, Single, Toppeled Dazzle
+  > <span style="color:#DDDD00">Shaker Edge</span> : Yellow, Physical, Single, Toppeled Daze
 - **Battle Soul** is a crazy battle cry, the player sacrifices a quarter of their health to use their talent instantly.
   > <span style="color:blue">Battle soul</span> : Blue, Buff, Self, Self Dmg ( 1/4 MaxHealth ), Art Turn strike
 
@@ -38,6 +40,6 @@ The light Swordman is one of the lowest HP playable character, but his Strength 
 
 **Turn Strike** is the light swordman's *talent* it deals heavy damage to a single target and inflicts Break for 3 rounds.
 
-> Turn Strike : Talent, Single, H-Dmg, break 3
+> <span style="color:grey">Turn Strike</span> : Talent, Single, H-Dmg, break 3
 
 ## skills
